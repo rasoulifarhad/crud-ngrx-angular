@@ -28,3 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 See https://itnext.io/ngrx-complete-guide-with-angular-learn-by-doing-simple-crud-operations-95d1414e765d
 See https://github.com/olimungo/simple-crud-ngrx/tree/master
+
+See https://github.com/bradtraversy/ngspotify/tree/master
+See https://github.com/feross/last-fm
+See https://github.com/jesimone57/sql_music_examples/tree/master
